@@ -10,7 +10,7 @@
 <td width="55%" valign="top">
 
 ### 🌙 sobre mí
-Estoy aprenciendo a ser Desarrolladora  web.
+Estoy aprencdiendo a ser Desarrolladora  web.
 <p align="center">
   <a href="https://TU_PROYECTO1.com" target="_blank">
     <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding" width="220"/>
@@ -20,9 +20,12 @@ Estoy aprenciendo a ser Desarrolladora  web.
 </p>
 
 
-## 🌱 Proyectos & Ejemplos
-- Sitios web responsivos y accesibles  
-- Componentes interactivos
+## 🌱 Proyectos
+- Crear sitios web responsivos y accesibles.
+
+- Desarrollar componentes interactivos usando JavaScript/React.
+
+- Escribir código limpio y mantenible.
 
 
 ## 🤝 Conectemos
@@ -42,11 +45,11 @@ Podemos colaborar
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 📊 Mis Estadísticas
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maria19761976&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maria19761976&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maria19761976&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maria19761976&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maria19761976&theme=2077&utcOffset=8)
 
 --
 
