@@ -56,7 +56,7 @@ Podemos colaborar
 
 ### 🌸🫧 gustos y aficiones
 
-- Música con auriculares grandes y camcelacion de ruido.  
+- Música con auriculares grandes y cancelacion de ruido.  
 - Mi gato Panchito.
 - Apasionada de los viajes.
 - La pantalla grande del cine.
