@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**Maria19761976/Maria19761976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">hola, soy Maria </h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 🌙 sobre mí
+soy [qué haces / qué eres].  
+
+
+
+### 🌸 gustos 
+
+- música bajita, auriculares grandes  
+-  
+
+### 🫧 aficiones
+- crear a mi ritmo  
+- perderme en pensamientos lindos  
+- cuidar los pequeños detalles  
+
+### ♡ lo que hago
+- [estudio / trabajo]  
+- proyectos personales  
+- sigo aprendiendo, despacio  
+
+</td>
+<td width="45%" align="right">
+
+<img width="1024" height="1536" alt="b4c13efb-a78d-40f7-83ae-0e58010183cc" img src="https://github.com/user-attachments/assets/cc289401-0e54-45b5-a438-f68c10d50c3b" />
+
+
+</td>
+</tr>
+</table>
+
+<br>
+
