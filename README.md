@@ -42,18 +42,21 @@ Podemos colaborar
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 📊 Mis Estadísticas
-<p align="center">
-  <img 
-  <img 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8)
 
----
+--
+
 
 ### 🌸🫧 gustos y aficiones
 
-- Música bajita, auriculares grandes.  
+- Música con auriculares grandes y camcelacion de ruido.  
 - Mi gato Panchito.
 - Apasionada de los viajes.
-- La  pantalla grande del cine.
+- La pantalla grande del cine.
 
 
 
